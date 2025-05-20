@@ -1,0 +1,6 @@
+global:
+  action:
+    create: Crear
+    delete: Eliminar
+    edit: Editar
+    go: Ir
